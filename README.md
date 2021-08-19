@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sumukh12
-- 👀 I’m interested in reasearch 
-- 🌱 I’m currently learning data science completed
+- 👀 I’m interested in research 
+- 🌱 I’m currently learning data science completed in august
+- currently working in FlipRoboTechnology
 - 💞️ I’m looking to collaborate on the company
 - 📫 How to reach me 7038330058 this my contact number
 
