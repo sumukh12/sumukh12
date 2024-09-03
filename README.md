@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sumukh12
 - 👀 I’m interested in research 
-- 🌱 I’m currently learning data science completed in august
-- currently working in FlipRoboTechnology
+- 🌱 I’m currently Designated position AGM in Quematech.
+-    Handaling all Goa IT projects.
+-    Currently Posted as consultant.
 - 💞️ I’m looking to collaborate on the company
 - 📫 How to reach me 7038330058 this my contact number
 
